@@ -1,10 +1,6 @@
-# React + Vite
+# Roulette Simulator
+This is a simple webapp to function as a Vegas-style Roulette simulator and calculator. Place chips to see what the potential payout is for each of the numbers.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Work in progress
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# codenames
-# roulette_sim
+[Published site](https://roulette-sim.vercel.app/)
